@@ -4,17 +4,15 @@
 
 ## Informações Gerais
 
-Nome:
-Matricula:
+Nome:João de Cristo Werner Gonçalves
+Matricula:1596778
 
 ## Tela de inspeção com navegador
-
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
-
+![alt text](<Captura de tela 2025-08-14 114050.png>)
+`
 ## Tela de projeto no Replit
 
-`<Coloque aqui o print da tela do projeto no Replit>`
-
+`![alt text](<Captura de tela 2025-08-14 120709.png>)
 
 ## Orientações sobre Linguagem MarkDown
 
